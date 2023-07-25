@@ -1,0 +1,80 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #e3c19d;
+  background-image: url(pink-flowers.webp);
+  font: 16px , 'Borel', 'Arial' sans-serif;
+  font-family: 'Borel';
+   /*font-family: 'Open Sans', sans-serif;*/
+}
+
+p {
+  color: rgb(35, 93, 19);
+}
+
+.image-block,
+.text-block {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.image-block {
+  margin-right: 1em;
+}
+
+.image-block img {
+  height: 170px;
+}
+
+.text-block {
+  color: #b25d5a;
+  font-size: 20px;
+}
+
+#site-wrapper {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#card {
+  background-color: rgb(238, 175, 98);
+  padding: 2em;
+  width: 450px;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 2em auto;
+  border-radius: .8em;
+
+  -webkit-box-shadow: 28px 28px 34px -12px rgba(178, 93, 90, 1);
+  -moz-box-shadow: 28px 28px 34px -12px rgba(178, 93, 90, 1);
+  box-shadow: 28px 28px 34px -12px rgba(178, 93, 90, 1);
+}
+
+.header {
+  font-size: .8rem;
+}
+
+a {
+  color:rgb(35, 93, 19);
+  text-decoration: none;
+  font-size:18px;
+}
+
+a:hover {
+  color:#b25d5a;
+}
+
+.no-style {
+  list-style: none;
+  padding-left: 0;
+}
+
+.no-style li {
+  display: inline-block;
+}
