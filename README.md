@@ -8,5 +8,5 @@ The "Digital Business Card" project is a web application designed to simulate th
 * CSS: Employed for styling the user interface, enhancing the visual appeal of the business card, and ensuring consistency in design across different devices and screen sizes.
 
 ## How to Use:
-* Open the web application in a compatible browser: fabulousfoxx.github.io/MyDigitalBusinessCard/
+* Open the web application in a compatible browser: https://fabulousfoxx.github.io/MyDigitalBusinessCard/
 * Interact with any interactive elements, such as clickable buttons. 
