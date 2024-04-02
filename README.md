@@ -1,1 +1,1 @@
-This is DigitalBusinessCard by fabulousfoxx. Made with HTML & CSS with a touch of creativity. To view it on your browser, copy and paste link below: https://fabulousfoxx.github.io/MyDigitalBusinessCard/
+This is DigitalBusinessCard by fabulousfoxx. Made with HTML & CSS with a touch of creativity. On the website is shown an artificial e-mail address for visualization purposes. To view it on your browser, copy and paste link below: https://fabulousfoxx.github.io/MyDigitalBusinessCard/
